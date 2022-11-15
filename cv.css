@@ -5,6 +5,18 @@
 	text-align: justify;
 	box-sizing: border-box;
 }
+.button{
+	 background-color: #6A5ACD;
+        border: none;
+        color: white;
+        padding: 20px 34px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: grab;
+}
 body{
 	background-color: #9370DB;
 }
